@@ -13,3 +13,4 @@ def check_summarise_scores(summarise_scores):
         )
 
     print("All checks passed. Your function works for the example cases!")
+    
